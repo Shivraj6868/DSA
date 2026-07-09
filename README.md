@@ -47,7 +47,7 @@ DSA-Journey/
 
 ## 💻 Language Used
 
-- 🐍 Python
+- 🐍 Python.
 
 ---
 
