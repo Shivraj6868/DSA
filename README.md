@@ -8,10 +8,10 @@ This repository contains my solutions to DSA problems from multiple coding platf
 
 ## 📚 Platforms Covered
 
-- 🟢 LeetCode
-- 🟤 CodeChef
-- 🔵 GeeksforGeeks
-- 🟠 HackerRank
+- 🟢 LeetCode.
+- 🟤 CodeChef.
+- 🔵 GeeksforGeeks.
+- 🟠 HackerRank.
 
 ---
 
