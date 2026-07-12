@@ -53,9 +53,9 @@ DSA-Journey/
 
 ## 🎯 Goals
 
-- Master Data Structures & Algorithms.
-- Improve logical thinking and problem-solving skills.
-- Prepare for coding interviews.
-- Practice consistently every day.
-- Build a strong GitHub profile.
-- Get placed in a top product-based company.
+- Master Data Structures & Algorithms
+- Improve logical thinking and problem-solving skills
+- Prepare for coding interviews
+- Practice consistently every day
+- Build a strong GitHub profile
+- Get placed in a top product-based company
