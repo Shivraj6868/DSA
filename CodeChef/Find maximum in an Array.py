@@ -1,6 +1,6 @@
 # Find maximum Number in an Array.
 
-# Solution cointain Time Complexity O(n^2) 
+# Solution contain Time Complexity O(n^2) 
 n = int(input())
 arr = list(map(int, input().split()))
 
