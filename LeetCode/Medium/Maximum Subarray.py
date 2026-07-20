@@ -1,3 +1,5 @@
+from typing import List
+
 # 53.Maximum Subarray
 
 class Solution:
