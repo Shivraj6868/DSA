@@ -1,6 +1,6 @@
 from typing import List
 
-# 53.Maximum Subarray
+# 53.Maximum Subarray sum
 
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
