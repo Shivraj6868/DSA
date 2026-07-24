@@ -1,6 +1,6 @@
 from typing import List
 
-# Find All Duplicates in an Array 
+# 442.Find All Duplicates in an Array 
 
 # Brute force solution 
 # - Time complexity : O(n^2).
