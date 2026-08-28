@@ -21,4 +21,4 @@ class Solution:
         if s_freq == t_freq:
             return True 
 
-        return False
+        
