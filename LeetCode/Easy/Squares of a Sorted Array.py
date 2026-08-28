@@ -1,6 +1,6 @@
 from typing import List
 
-# 977. Squares of a Sorted Array
+# 977. Squares of a Sorted Array.
  
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
