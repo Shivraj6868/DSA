@@ -1,7 +1,7 @@
 from typing import List
 
 
-#  1941. Check if All Characters Have Equal Number of Occurrences
+#  1941. Check if All Characters Have Equal Number of Occurrences.
 
 
 # Time complexity : O(n)
